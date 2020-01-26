@@ -1,7 +1,8 @@
 
-## Network-Scripts2 - Systemd (Debian only)
+## Network-Scripts2 - Systemd version (Debian only)
 
-Network scripts for Lan and Wlan interfaces(Bash)
+![wlan](https://user-images.githubusercontent.com/29865797/73136833-cedc4d80-405a-11ea-92a9-108af3867a02.jpg)
+![screen22](https://user-images.githubusercontent.com/29865797/73136834-d0a61100-405a-11ea-916e-ae6c8b3cbdaf.jpg)
 
 #### License
 
