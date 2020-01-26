@@ -3,6 +3,10 @@
 
 Network scripts for Lan and Wlan interfaces(Bash)
 
+#### License
+
+This is free software, and you are welcome to redistribute it
+under GPL Version 3, 29 June 2007 license. OR Apache License version 2.0.
  
 #### Dependencies - The following should be enough:
 
